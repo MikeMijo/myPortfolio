@@ -39,6 +39,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  color: #1f2227
 }
 
 .text-faded {
@@ -333,14 +334,15 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color:#5bc3eb !important;
+  border-color: #52b1d6 !important;
   color: #fff !important;
+ 
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: 	#f06449 !important;
+  border-color:#dd5d44 !important;
 }
 
 .btn-secondary {
@@ -362,10 +364,16 @@ a:hover, a:focus, a:active {
   -webkit-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
   font-weight: 700;
+  padding: 20px;
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color:	#1f2227!important;
+}
+
+
+.bg-primary-1 {
+  background-color: rgb(194, 96, 16) !important;
 }
 
 .text-primary {
@@ -373,5 +381,11 @@ a:hover, a:focus, a:active {
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: #f06449 !important;
+}
+
+.divider{
+  width:10px;
+  height:auto;
+  display:inline-block;
 }
