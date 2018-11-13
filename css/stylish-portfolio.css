@@ -260,8 +260,9 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content h2 {
-  font-size: 0.8rem;
+  font-size: 2rem;
   text-transform: uppercase;
+  color: honeydew;
 }
 
 .portfolio-item .caption .caption-content p {
@@ -388,4 +389,17 @@ a:hover, a:focus, a:active {
   width:10px;
   height:auto;
   display:inline-block;
+}
+
+.img-fluid-1 {
+  height: 200px;
+  width: 100%;
+}
+
+.tab-nav-item {
+  color: #f06449 !important;
+}
+
+.table {
+  margin-bottom: 50px;
 }
