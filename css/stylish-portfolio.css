@@ -415,3 +415,7 @@ a:hover, a:focus, a:active {
   padding: 25px;
   border-radius: 25px;
 }
+
+#journey {
+overflow: scroll;
+}
