@@ -419,3 +419,7 @@ a:hover, a:focus, a:active {
 #journey {
 overflow: scroll;
 }
+
+#flows {
+  overflow: scroll;
+  }
